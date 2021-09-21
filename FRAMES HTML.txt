@@ -1,0 +1,23 @@
+<html>
+
+<head>
+
+<title>Frames example</title>
+
+</head>
+
+<frameset cols="20%,60%,20%">
+
+<frame src="/html/leftpage_frame.htm" />
+
+<frame src="/html/centrepage_frame.htm" />
+
+<frame src="/html/rightpage_frame.htm" />
+
+<noframes>
+
+<body> Your browser does not supportframes.
+</body> 
+</noframes>
+</frameset>
+</html>
